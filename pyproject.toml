@@ -1,0 +1,9 @@
+[project]
+name = "threedology_order_tracker"
+version = "2.3.0"
+description = "3D-Ology Workshop Order Tracker"
+dependencies = ["flet"]
+
+[tool.flet]
+org = "com.threedology"
+product = "3D-Ology Order Tracker"
